@@ -1,6 +1,6 @@
 # NMOS Transistor Characterization
 
-Outlines for the steps for simulating and analyzing the characteristics of an NMOS transistor using LTspice. The focus is on determining the threshold voltage (Vt) by sweeping the gate-source voltage (Vgs) and measuring the drain-source current (Ids).
+Outline for simulating and analyzing the characteristics of an NMOS transistor using LTspice. The focus is on determining the threshold voltage (Vt) by sweeping the gate-source voltage (Vgs) and measuring the drain-source current (Ids).
 
 ## Setup Circuit
 
