@@ -8,9 +8,9 @@ Outline for simulating and analyzing the characteristics of an NMOS transistor u
 
 2. Ensure the conditions are set with Vds = 1.8V and Vb = 0.
 
-3. Navigate to the `NMOS.onsemi.lib` file within LTspice to select the specific NMOS model you plan to use. This file contains various NMOS transistor models with different characteristics.
-   - To include the custom NMOS model in your circuit, use the `.lib` directive to link the `NMOS.onsemi.lib` file. Place this directive somewhere in your circuit diagram where it's easily visible.
-   - Select the appropriate NMOS model from the library for your simulation. Specify this model for the NMOS transistor in your circuit to ensure that the simulation uses the correct parameters.
+3. Navigate to the `NMOS.onsemi.lib` file within LTspice to select the specific NMOS model as planned to use. This file contains various NMOS transistor models with different characteristics.
+   - To include the custom NMOS model in the circuit, use the `.lib` directive to link the `NMOS.onsemi.lib` file. Place this directive somewhere in the circuit diagram where it's easily visible.
+   - Select the appropriate NMOS model from the library for simulation. Specify this model for the NMOS transistor in the circuit to ensure that the simulation uses the correct parameters.
 
 
 ## NMOS Simulation
