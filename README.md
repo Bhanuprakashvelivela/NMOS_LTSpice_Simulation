@@ -4,7 +4,7 @@ Outline for simulating and analyzing the characteristics of an NMOS transistor u
 
 ## Setup Circuit
 
-1. Create a simple MOSFET circuit using an NMOS transistor.
+1. Create a simple NMOS transistor.
 
 2. Ensure the conditions are set with Vds = 1.8V and Vb = 0.
 
